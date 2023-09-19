@@ -8,7 +8,7 @@ This project aims to simplify and optimize the complex processes associated with
 
 - **Employee Compensation Management:** Automates salary calculations, bonuses, and incentives, ensuring accuracy and timeliness in payments.
 
-- **Leave Entitlements:** Streamlines leave request and approval processes, calculates entitlements based on company policies.
+- **Leave Entitlements:** Streamlines leave request and approval processes, and calculates entitlements based on company policies.
 
 - **Data Analytics:** Provides data analytics capabilities for insights into compensation trends and leave utilization, aiding in data-driven decision-making.
 
@@ -33,11 +33,10 @@ This project aims to simplify and optimize the complex processes associated with
 - Harsha Senarathne
 - Sadeepa Dananjaya
 - Shanilka Adithya
+- Ishara Uditha
 
 ## License
 
 This project is licensed under the [License Name] License - see the [LICENSE.md](LICENSE.md) file for details.
-
-
 
 
